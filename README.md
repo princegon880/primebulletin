@@ -1,5 +1,5 @@
 
 ## Screenshots
 
-![newsbulletin](https://drive.google.com/file/d/1EZjbf50uGUXG3he4LCjF4UAAHOsCqz9f/view?usp=drive_link)
+![newsbulletin](https://media-hosting.imagekit.io/4ae8b49a40014550/Screenshot%202025-05-05%20171535.png?Expires=1841054724&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=V8AziYIeT3XnoXPysaVHsSTxKNOYchVq3~k3L9DJSQR1MsoDhyw2MmsnkmpisNWuSBhfW6ZrHcLNtCaxFhT~349ejBXfDZ-ck1-un2CF5uan4O2wjkeytTnsfM0MK5l5ZMfD5026Xu8lDgP4Y52lywpzwSJZ4GleajycJBtYRH9OmvOjGwGTy-WoDG~ApyNOkpIn7RQ0wyp~dHgo2FbygWEHDSUDYm8s1MGarCeg4LxPXLir6bg4a8h~a9Pu-pEKYro~CbhBy6AWKHMUEBzh1y9F8nOrAiO~jJyzuHHcvFI7qA94CQv-byrGR4qKpVf6Ami~WYfHIimrkUPsmU~-gg__)
 
