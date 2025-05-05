@@ -37,6 +37,11 @@ cd backend
 npm i
 nodemon ./index.js
 ```
+For both frontend and backend run concurrently
+
+```bash
+npm run both
+```
 
 ## Screenshots
 - User Side
